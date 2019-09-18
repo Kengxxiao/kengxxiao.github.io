@@ -1,11 +1,11 @@
 {
-  "versionId": "19-09-09-08-51-22-e67e56",
+  "versionId": "19-09-17-09-07-56-b53562",
   "files": {
     "/config/config.ab": "45e772a164f60933912edb2e96f73f74",
     "/gamedata/excel/building_data.ab": "d63e0d804284248601fcfd7ebf7fea17",
     "/gamedata/excel/character_table.ab": "cc66892042bec4ac3de17f4cc1ef8083",
     "/gamedata/excel/charword_table.ab": "fc982a820e1be0adc820359045ecdd23",
-    "/gamedata/excel/gacha_table.ab": "22d37589c79d2bb56d165f9e10975daa",
+    "/gamedata/excel/gacha_table.ab": "e8cf79e04c65ee3f715a706719018090",
     "/gamedata/excel/handbook_info_table.ab": "6acc7088103e95cd93cdc0f239c643d5",
     "/gamedata/excel/handbook_team_table.ab": "fb653ab33268c0691afdfcbc79f0e8a5",
     "/gamedata/excel/item_table.ab": "af1bdb2a0c17734f7934c37f1772c536",
