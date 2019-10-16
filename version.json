@@ -1,5 +1,5 @@
 {
-  "patchVersion": "20191016134143",
+  "patchVersion": "20191016134821",
   "versionId": "19-10-14-11-06-50-5aca47",
   "files": {
     "/config/config.ab": "45e772a164f60933912edb2e96f73f74",
@@ -12,6 +12,6 @@
     "/gamedata/excel/item_table.ab": "1416df777846e444da9596920b973454",
     "/gamedata/excel/mission_table.ab": "1d5d96a26466b404f7dc35264a3769fa",
     "/gamedata/excel/skill_table.ab": "2ad9cd637f168d9ef4cd3dbabfdfdb79",
-    "/i18n/string_map.ab": "116e8fb9844f1dd22561aa04eadf24a2"
+    "/i18n/string_map.ab": "3f2abaa8d6b049c62760af924f22cee7"
   }
 }
