@@ -1,6 +1,6 @@
 {
-  "patchVersion": "Today is eyja's birthday!!-20191018223818",
-  "versionId": "19-10-14-11-06-50-5aca47",
+  "patchVersion": "20191022160254",
+  "versionId": "19-10-18-09-28-21-a69cdd",
   "files": {
     "/config/config.ab": "45e772a164f60933912edb2e96f73f74",
     "/gamedata/excel/building_data.ab": "b5c473cb44064bee433a74a8de096c4e",
@@ -13,7 +13,7 @@
     "/gamedata/excel/mission_table.ab": "1d5d96a26466b404f7dc35264a3769fa",
     "/gamedata/excel/skill_table.ab": "d5c24256a04200493217ec7ba247ab64",
     "/gamedata/excel/stage_table.ab": "8e5a35609ed06b377aa421bfd3a993d2",
-    "/gamedata/story/activities.ab": "72b246a28bc625900a350da536b8ebf6",
+    "/gamedata/story/activities.ab": "a4e3a6750a224b8390545ed6a6723b62",
     "/i18n/string_map.ab": "3f2abaa8d6b049c62760af924f22cee7"
   }
 }
