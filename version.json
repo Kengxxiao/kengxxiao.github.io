@@ -1,5 +1,5 @@
 {
-  "patchVersion": "20191120123645",
+  "patchVersion": "20191120125128",
   "versionId": "19-11-18-08-24-57-ec9b6b",
   "files": {
     "/config/config.ab": "45e772a164f60933912edb2e96f73f74",
@@ -10,7 +10,7 @@
     "/gamedata/excel/gacha_table.ab": "3792e47c1e0a592e1eddb8255a917329",
     "/gamedata/excel/handbook_info_table.ab": "434315a43cf36d27be5268a54abe4044",
     "/gamedata/excel/handbook_team_table.ab": "ec769969d0095d918422daff15378c4e",
-    "/gamedata/excel/item_table.ab": "8f6d242bdda06b66e004cfc94c1aba10",
+    "/gamedata/excel/item_table.ab": "396ab9deb4dc4a774e422ac1e0a6f275",
     "/gamedata/excel/mission_table.ab": "32dc11393415de1925582a2ee6e77e55",
     "/gamedata/excel/skill_table.ab": "e0536874f9e741aa8674054e4097546a",
     "/gamedata/excel/stage_table.ab": "40bd4555df659ad2ad8164382449a7e2",
