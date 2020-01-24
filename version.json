@@ -1,27 +1,27 @@
 {
-  "patchVersion": "20200124175718",
-  "msg": "",
-  "versionId": "20-01-15-06-04-59-d0d6e2",
+  "patchVersion": "20200124180615",
+  "msg": "xposed_test_2",
+  "versionId": "20-01-19-11-55-51-1200d5",
   "appVer": 5,
   "enableXposedPart": true,
   "files_xposed": {
-    "/gamedata/excel/activity_table.ab": "d7cecad762f1220144a69b115c701072",
-    "/gamedata/excel/building_data.ab": "48fcc86792151245ccf0c5ec333af24b",
-    "/gamedata/excel/character_table.ab": "611c6703958f92d1f5064eea387312d7",
-    "/gamedata/excel/charword_table.ab": "879f0e82d64f92d85351125ad9757c03",
+    "/gamedata/excel/activity_table.ab": "64f134e1975c3462829d61afcdcbfb16",
+    "/gamedata/excel/building_data.ab": "3f2fb6f6b27725f8d380f63af5d5a8d9",
+    "/gamedata/excel/character_table.ab": "d79cb19dfb0effb773593926172e09f5",
+    "/gamedata/excel/charword_table.ab": "2845376fb05320a13f494556de8253c5",
     "/gamedata/excel/enemy_handbook_table.ab": "0f731692844020d32fb1ec59a51dad2e",
-    "/gamedata/excel/gacha_table.ab": "0b0b69dc5617513b638e6395b64f4c2d",
-    "/gamedata/excel/handbook_info_table.ab": "0b1e0c4956f8e1d1fe1114964524edda",
+    "/gamedata/excel/gacha_table.ab": "08b8efa3b0d59c876451dd479f696f8b",
+    "/gamedata/excel/handbook_info_table.ab": "0198514b0a47a52270664bfeb96a1f8f",
     "/gamedata/excel/handbook_team_table.ab": "e9b5f17317b207cdbecee8060aaaf25b",
-    "/gamedata/excel/item_table.ab": "2178cd280f50af899314bbe4e20bb32a",
+    "/gamedata/excel/item_table.ab": "ac7916d831ad52455dee295eaf459a6b",
     "/gamedata/excel/mission_table.ab": "8d535f74dd2f6055a8cfa4484da6fd25",
-    "/gamedata/excel/skill_table.ab": "5f867b1dfc767f87a2d7cf21b0fcee77",
-    "/gamedata/excel/stage_table.ab": "c3a51ed1df3f532242a704ffa42eb8d5"
+    "/gamedata/excel/skill_table.ab": "8bcc3be8afdfe8c74006caa94f33c128",
+    "/gamedata/excel/stage_table.ab": "eebc652b6dfe7e737d9f8e6c266dfdfc"
   },
   "files": {
     "/config/config.ab": "edfcad009b3eb686f3c64d2dc4748a0a",
-    "/gamedata/story/activities.ab": "13691e807d0f6534978ee35de4265e35",
-    "/gamedata/story/obt.ab": "253466cafcbc1990a648c6bf745c497a",
+    "/gamedata/story/activities.ab": "0bb664116a1a64377c93bdec1b5d2034",
+    "/gamedata/story/obt.ab": "2c205651cf8a31be283421e4bad48c83",
     "/i18n/string_map.ab": "67c0edc08cee021d001d2d8cdf55b4e0"
   },
   "sign": {
