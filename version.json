@@ -1,5 +1,5 @@
 {
-  "patchVersion": "20200124211740",
+  "patchVersion": "20200124213400",
   "msg": "xposed_beta",
   "versionId": "20-01-19-11-55-51-1200d5",
   "appVer": 5,
@@ -21,7 +21,7 @@
   "files": {
     "/config/config.ab": "edfcad009b3eb686f3c64d2dc4748a0a",
     "/gamedata/story/activities.ab": "0bb664116a1a64377c93bdec1b5d2034",
-    "/gamedata/story/obt.ab": "2c205651cf8a31be283421e4bad48c83",
+    "/gamedata/story/obt.ab": "1b1dc55f7f7f6864b53a2239f7c80dfd",
     "/i18n/string_map.ab": "67c0edc08cee021d001d2d8cdf55b4e0"
   },
   "sign": {
