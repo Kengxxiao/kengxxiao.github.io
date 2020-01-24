@@ -1,6 +1,6 @@
 {
-  "patchVersion": "20200124204625",
-  "msg": "xposed_test_2",
+  "patchVersion": "20200124210504",
+  "msg": "xposed_beta",
   "versionId": "20-01-19-11-55-51-1200d5",
   "appVer": 5,
   "enableXposedPart": true,
@@ -26,7 +26,7 @@
   },
   "sign": {
     "/0.kconf": "d26ad7a7926f12109a7bb1015ca4be29",
-    "/0.kengxxiao": "7154d9600c08924451dc35bb251f8b8c",
+    "/0.kengxxiao": "6b68a50cc3aa6caef0e4259175d11d87",
     "/1.kconf": "ded540d4ec2ec973dca462dbaa0abe81",
     "/1.kengxxiao": "3c31209eef2c6369b16c9f937c1651ec"
   }
