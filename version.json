@@ -1,5 +1,5 @@
 {
-  "patchVersion": "20200124180615",
+  "patchVersion": "20200124204625",
   "msg": "xposed_test_2",
   "versionId": "20-01-19-11-55-51-1200d5",
   "appVer": 5,
@@ -25,7 +25,9 @@
     "/i18n/string_map.ab": "67c0edc08cee021d001d2d8cdf55b4e0"
   },
   "sign": {
+    "/0.kconf": "d26ad7a7926f12109a7bb1015ca4be29",
+    "/0.kengxxiao": "7154d9600c08924451dc35bb251f8b8c",
     "/1.kconf": "ded540d4ec2ec973dca462dbaa0abe81",
-    "/1.kengxxiao": "ca23d7ff1d76fd0832eb31100b357182"
+    "/1.kengxxiao": "3c31209eef2c6369b16c9f937c1651ec"
   }
 }
