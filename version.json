@@ -1,22 +1,22 @@
 {
-  "patchVersion": "20200202174622",
-  "msg": "fix_chapter5",
-  "versionId": "20-01-19-11-55-51-1200d5",
+  "patchVersion": "20200205161136",
+  "msg": "cn_update",
+  "versionId": "20-01-31-17-02-22-c57547",
   "appVer": 5,
   "enableXposedPart": true,
   "files_xposed": {
-    "/gamedata/excel/activity_table.ab": "64f134e1975c3462829d61afcdcbfb16",
-    "/gamedata/excel/building_data.ab": "3f2fb6f6b27725f8d380f63af5d5a8d9",
+    "/gamedata/excel/activity_table.ab": "017f50612dec12b280611f915c530fb9",
+    "/gamedata/excel/building_data.ab": "224166e70755d93ddb7431c5e449729e",
     "/gamedata/excel/character_table.ab": "ed64e270b670e99358018dc243abb919",
     "/gamedata/excel/charword_table.ab": "2845376fb05320a13f494556de8253c5",
     "/gamedata/excel/enemy_handbook_table.ab": "0f731692844020d32fb1ec59a51dad2e",
-    "/gamedata/excel/gacha_table.ab": "deb572c7a6986d11d7f352243f80521b",
+    "/gamedata/excel/gacha_table.ab": "3e63738295f14bce74df4ed693d54913",
     "/gamedata/excel/handbook_info_table.ab": "0198514b0a47a52270664bfeb96a1f8f",
     "/gamedata/excel/handbook_team_table.ab": "e9b5f17317b207cdbecee8060aaaf25b",
-    "/gamedata/excel/item_table.ab": "ac7916d831ad52455dee295eaf459a6b",
-    "/gamedata/excel/mission_table.ab": "8d535f74dd2f6055a8cfa4484da6fd25",
+    "/gamedata/excel/item_table.ab": "ecdec610d97c00c77dc98b95a75330de",
+    "/gamedata/excel/mission_table.ab": "66fdb3c42cb30e0c35510a82dafb2351",
     "/gamedata/excel/skill_table.ab": "8bcc3be8afdfe8c74006caa94f33c128",
-    "/gamedata/excel/stage_table.ab": "eebc652b6dfe7e737d9f8e6c266dfdfc"
+    "/gamedata/excel/stage_table.ab": "bf250ea564dcb5181eb463c12dda2e50"
   },
   "files": {
     "/config/config.ab": "edfcad009b3eb686f3c64d2dc4748a0a",
@@ -27,7 +27,7 @@
   "sign": {
     "/0.kconf": "d26ad7a7926f12109a7bb1015ca4be29",
     "/0.kengxxiao": "6b68a50cc3aa6caef0e4259175d11d87",
-    "/1.kconf": "ded540d4ec2ec973dca462dbaa0abe81",
+    "/1.kconf": "1df02c108e4f8999659fe4587763a36b",
     "/1.kengxxiao": "3c31209eef2c6369b16c9f937c1651ec"
   }
 }
