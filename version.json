@@ -1,6 +1,6 @@
 {
-  "patchVersion": "20200225121230",
-  "msg": "0872_update_b1",
+  "patchVersion": "20200225121900",
+  "msg": "0872_update_b2",
   "versionId": "20-02-23-08-20-20-4161dd",
   "appVer": 5,
   "enableXposedPart": true,
@@ -16,7 +16,8 @@
     "/gamedata/excel/item_table.ab": "7d25f6bb1c2cc16e4e4a248875be1208",
     "/gamedata/excel/mission_table.ab": "66fdb3c42cb30e0c35510a82dafb2351",
     "/gamedata/excel/skill_table.ab": "e8cb9001292de310a569eef6f1c973cd",
-    "/gamedata/excel/stage_table.ab": "25fa787ea4c51566b7cf7e64a30e65f8"
+    "/gamedata/excel/stage_table.ab": "25fa787ea4c51566b7cf7e64a30e65f8",
+    "/gamedata/excel/tip_table.ab": "40d7cdc195d20435599bb9a85f25f04a"
   },
   "files": {
     "/config/config.ab": "93e7603d03971329fb3d9175e49b5f95",
