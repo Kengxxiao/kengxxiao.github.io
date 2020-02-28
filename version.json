@@ -1,6 +1,6 @@
 {
-  "patchVersion": "20200225121900",
-  "msg": "0872_update_b2",
+  "patchVersion": "20200228183136",
+  "msg": "arm_fix",
   "versionId": "20-02-23-08-20-20-4161dd",
   "appVer": 5,
   "enableXposedPart": true,
@@ -28,6 +28,6 @@
   "sign": {
     "/0.kengxxiao": "7cb66bdad031d5f976d300462ef9f0b3",
     "/1.kengxxiao": "0d05d5ac1247ce6251ac29852483da02",
-    "/test.kconf": "ad7e747db106ff0b874ac27242f6fdab"
+    "/test.kconf": "d4addea9d80e19f65ca14c83003c90cc"
   }
 }
