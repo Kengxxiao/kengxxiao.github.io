@@ -1,7 +1,7 @@
 {
-  "patchVersion": "20200401163048",
-  "msg": "401_flash",
-  "versionId": "20-03-30-07-07-49-a8a38e",
+  "patchVersion": "20200408220035",
+  "msg": "408_flash",
+  "versionId": "20-04-07-13-09-17-ff7c7f",
   "appVer": 5,
   "enableXposedPart": true,
   "files_xposed": {
@@ -10,11 +10,11 @@
     "/gamedata/excel/character_table.ab": "31e2c65fd48a2d2bfc6bb9038d518419",
     "/gamedata/excel/charword_table.ab": "04eed1ed89d5a02665592714028c6595",
     "/gamedata/excel/enemy_handbook_table.ab": "0f731692844020d32fb1ec59a51dad2e",
-    "/gamedata/excel/gacha_table.ab": "f377a9944669902628f7c220cef814aa",
+    "/gamedata/excel/gacha_table.ab": "3c8172f900169f56ceab47e48cc2449f",
     "/gamedata/excel/handbook_info_table.ab": "b826970f1f75c4ec2458604b357007ca",
     "/gamedata/excel/handbook_team_table.ab": "e9b5f17317b207cdbecee8060aaaf25b",
     "/gamedata/excel/item_table.ab": "b957ea748c4c66f247b4f579ab8b1eb3",
-    "/gamedata/excel/mission_table.ab": "9ecee71141f8082c1015592b58a26bc0",
+    "/gamedata/excel/mission_table.ab": "25c80b053e46636a2bb35699a9c1039b",
     "/gamedata/excel/skill_table.ab": "4f079b4fb546504f6f0b360916c0ee7b",
     "/gamedata/excel/stage_table.ab": "f913a52c55511a7a9e6d05f7e0296102",
     "/gamedata/excel/tip_table.ab": "40d7cdc195d20435599bb9a85f25f04a"
