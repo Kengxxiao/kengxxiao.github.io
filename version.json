@@ -1,5 +1,5 @@
 {
-  "patchVersion": "20200421122727",
+  "patchVersion": "20200421123440",
   "msg": "420",
   "versionId": "20-04-20-15-34-27-5af8de",
   "appVer": 5,
@@ -28,6 +28,6 @@
   "sign": {
     "/0.kengxxiao": "c7234b769499383ccac47b6c0dc0bc5e",
     "/1.kengxxiao": "d59ee4788255caf46090b714fbf4a0a1",
-    "/test.kconf": "634b27bc7de39a5f850c31afed3a98a8"
+    "/test.kconf": "2b4eeddf0159400327d4672dfe307a6e"
   }
 }
