@@ -1,33 +1,33 @@
 {
-  "patchVersion": "20200415160708",
-  "msg": "415",
-  "versionId": "20-04-12-15-04-56-47110f",
+  "patchVersion": "20200421122727",
+  "msg": "420",
+  "versionId": "20-04-20-15-34-27-5af8de",
   "appVer": 5,
   "enableXposedPart": true,
   "files_xposed": {
-    "/gamedata/excel/activity_table.ab": "790ffb586869038d254496f49b14a6d6",
-    "/gamedata/excel/building_data.ab": "9c9030567545837673c02e361448b02c",
-    "/gamedata/excel/character_table.ab": "31e2c65fd48a2d2bfc6bb9038d518419",
-    "/gamedata/excel/charword_table.ab": "04eed1ed89d5a02665592714028c6595",
-    "/gamedata/excel/enemy_handbook_table.ab": "0f731692844020d32fb1ec59a51dad2e",
-    "/gamedata/excel/gacha_table.ab": "5059c7dbfc84fa08ffb27cc4676892a0",
-    "/gamedata/excel/handbook_info_table.ab": "b826970f1f75c4ec2458604b357007ca",
-    "/gamedata/excel/handbook_team_table.ab": "e9b5f17317b207cdbecee8060aaaf25b",
-    "/gamedata/excel/item_table.ab": "b957ea748c4c66f247b4f579ab8b1eb3",
-    "/gamedata/excel/mission_table.ab": "25c80b053e46636a2bb35699a9c1039b",
-    "/gamedata/excel/skill_table.ab": "b800e99afc8355c6d9721e6bb2c0e3a2",
-    "/gamedata/excel/stage_table.ab": "f913a52c55511a7a9e6d05f7e0296102",
-    "/gamedata/excel/tip_table.ab": "40d7cdc195d20435599bb9a85f25f04a"
+    "/gamedata/excel/activity_table.ab": "45507c39e6beeea9c47f17aad062eac3",
+    "/gamedata/excel/building_data.ab": "18743296a49b6081ce9aae4a6681fd4e",
+    "/gamedata/excel/character_table.ab": "0abcec27e6d1bfdc4b44efac92fcb59d",
+    "/gamedata/excel/charword_table.ab": "1a2f690196cdee517bce330a024ce5ea",
+    "/gamedata/excel/enemy_handbook_table.ab": "436a871128451603f46be02dadfb2631",
+    "/gamedata/excel/gacha_table.ab": "5c49aa97bf35770e23cc391742d66ddf",
+    "/gamedata/excel/handbook_info_table.ab": "5a4de6c340552e5a8e2622ffca657802",
+    "/gamedata/excel/handbook_team_table.ab": "f3de5207936f220ba9447f2ea8481965",
+    "/gamedata/excel/item_table.ab": "12c5494ad3e630fddb03013ee5525196",
+    "/gamedata/excel/mission_table.ab": "fd16daca846ad77ddfc9323a8406fa75",
+    "/gamedata/excel/skill_table.ab": "12256db795e515b542b259dbd08b8636",
+    "/gamedata/excel/stage_table.ab": "7d9db3e370afcf515a2f5f21dcf99718",
+    "/gamedata/excel/tip_table.ab": "5690e4b509d7f04949846a610046b820"
   },
   "files": {
     "/config/config.ab": "93e7603d03971329fb3d9175e49b5f95",
-    "/gamedata/story/activities.ab": "0379fbd1eb66ba7faff3ada94de99c6a",
+    "/gamedata/story/activities.ab": "f0bbf5cf6503ed359530e109ff43b4a1",
     "/gamedata/story/obt.ab": "1b5a98fea2b3deb4e3ead680e77537e3",
     "/i18n/string_map.ab": "f9ee624f1c79d8a892004b616ab19054"
   },
   "sign": {
     "/0.kengxxiao": "c7234b769499383ccac47b6c0dc0bc5e",
     "/1.kengxxiao": "d59ee4788255caf46090b714fbf4a0a1",
-    "/test.kconf": "224fe518fcac1226b48caf13ffa3777f"
+    "/test.kconf": "634b27bc7de39a5f850c31afed3a98a8"
   }
 }
