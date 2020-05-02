@@ -1,11 +1,11 @@
 {
-  "patchVersion": "20200501155527",
+  "patchVersion": "20200502154225",
   "msg": "1sta",
   "versionId": "20-04-30-04-26-23-1bcb0f",
   "appVer": 5,
   "enableXposedPart": true,
   "files_xposed": {
-    "/gamedata/excel/activity_table.ab": "75e2ba083b4de13892b3061b259d4975",
+    "/gamedata/excel/activity_table.ab": "40ae2e6f4cfa1d0bc638ad8afc11ad3f",
     "/gamedata/excel/building_data.ab": "6ce1fef6cc659c60325771efd7717f14",
     "/gamedata/excel/character_table.ab": "192711aeda5c34bf3398a3f59609946d",
     "/gamedata/excel/charword_table.ab": "6a69137e2141cf23841724ffb6b698b2",
