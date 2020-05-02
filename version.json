@@ -1,5 +1,5 @@
 {
-  "patchVersion": "20200502155251",
+  "patchVersion": "20200502155937",
   "msg": "1sta",
   "versionId": "20-04-30-04-26-23-1bcb0f",
   "appVer": 5,
@@ -23,7 +23,7 @@
     "/config/config.ab": "93e7603d03971329fb3d9175e49b5f95",
     "/gamedata/story/activities.ab": "12958424cf7fd31e62c2145b9404bb28",
     "/gamedata/story/obt.ab": "2931bcf23e703c41d9647bac24579e81",
-    "/i18n/string_map.ab": "12e2a0a6444d33e3987946584e605e6e"
+    "/i18n/string_map.ab": "8cdd7edfca7724e6fa308bd2b4ff7072"
   },
   "sign": {
     "/0.kengxxiao": "c7234b769499383ccac47b6c0dc0bc5e",
