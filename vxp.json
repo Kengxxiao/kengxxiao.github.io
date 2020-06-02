@@ -1,10 +1,26 @@
 {
   "a": [
-    41349124,
-    48738176,
-    43374804
+    9321800,
+    51600300,
+    50764860
   ],
   "cast": {
-    "清除缓存": "Clear Cache"
+    "开始唤醒": "Start",
+    "清除缓存": "Clear Cache",
+    "机密圣所": "Store",
+    "训练场": "Practice",
+    "合约赏金": "Golds",
+    "开放等级": "Level",
+    "模拟场地": "Emulator",
+    "信赖值": "Trust",
+    "属性": "Attributes",
+    "精英化": "Promotion",
+    "潜能": "Potential",
+    "技能升级": "Skill Upgrade",
+    "特性": "Traits",
+    "天赋": "Talent",
+    "攻击范围": "Range",
+    "剧情": "Story",
+    "代理指挥": "Auto Deploy"
   }
 }
