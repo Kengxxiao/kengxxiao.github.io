@@ -21,6 +21,8 @@
     "天赋": "Talent",
     "攻击范围": "Range",
     "剧情": "Story",
-    "代理指挥": "Auto Deploy"
+    "代理指挥": "Auto Deploy",
+    "行动前": "Before",
+    "行动后": "After"
   }
 }

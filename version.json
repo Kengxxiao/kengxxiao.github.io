@@ -1,6 +1,6 @@
 {
-  "patchVersion": "20200602115945",
-  "msg": "1111update",
+  "patchVersion": "20200602173902",
+  "msg": "beagleFix",
   "versionId": "20-06-01-08-17-46-94dd4c",
   "appVer": 5,
   "enableXposedPart": true,
@@ -17,18 +17,19 @@
     "/gamedata/excel/mission_table.ab": "241386ee49df9a649fbb602de956eb12",
     "/gamedata/excel/skill_table.ab": "d52d63342ccdbabe7b833454281dd83a",
     "/gamedata/excel/stage_table.ab": "429fdeb8aa0f2d93210e5f6d13c8ba94",
+    "/gamedata/excel/story_review_table.ab": "6b4850275a1a350969cd196450fba6a2",
     "/gamedata/excel/tip_table.ab": "acaacaf8cd41165de3b1efbdfc2e6eb6"
   },
   "files": {
     "/config/config.ab": "f2c6319f8ead23975efbd2f63c4df8ad",
     "/gamedata/story/activities.ab": "e6477f7d20b1a65ff9d59956501198ca",
     "/gamedata/story/obt.ab": "132c2eb89f6186ed8e7b468c710c9bb9",
-    "/gamedata/story/[uc]info.ab": "af9126e5094ab7c2707ba892bc28661d",
+    "/gamedata/story/[uc]info.ab": "52ae300a132afe7ac74c42000c40c5ef",
     "/i18n/string_map.ab": "66c97d46048843cf163eff5d74cef587"
   },
   "sign": {
     "/0.kengxxiao": "c7234b769499383ccac47b6c0dc0bc5e",
     "/1.kengxxiao": "d59ee4788255caf46090b714fbf4a0a1",
-    "/test.kconf": "a3dc75bf4eaf2fab08aa5e52c850b967"
+    "/test.kconf": "adea0e67e904a88dae7f7112cc4038c1"
   }
 }
