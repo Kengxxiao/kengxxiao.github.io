@@ -1,7 +1,7 @@
 {
-  "patchVersion": "20200604161945",
-  "msg": "update",
-  "versionId": "20-06-03-01-51-43-ff16ed",
+  "patchVersion": "20200604190829",
+  "msg": "mglfix",
+  "versionId": "20-06-04-09-03-13-072b32",
   "appVer": 5,
   "enableXposedPart": true,
   "files_xposed": {
