@@ -1,19 +1,19 @@
 {
-  "patchVersion": "20200602173902",
-  "msg": "beagleFix",
-  "versionId": "20-06-01-08-17-46-94dd4c",
+  "patchVersion": "20200604161945",
+  "msg": "update",
+  "versionId": "20-06-03-01-51-43-ff16ed",
   "appVer": 5,
   "enableXposedPart": true,
   "files_xposed": {
     "/gamedata/excel/activity_table.ab": "a8bc794ac72a8ff2627df7fd5044bf69",
-    "/gamedata/excel/building_data.ab": "b4c42140313ddc52150372dfa1d0ed8d",
+    "/gamedata/excel/building_data.ab": "1d1bb4e84eec2d0835db4467a21869d8",
     "/gamedata/excel/character_table.ab": "feda87bfa0abec0357493b1b9c3ecf84",
     "/gamedata/excel/charword_table.ab": "618ab760a440f23853ad4a3768d58063",
     "/gamedata/excel/enemy_handbook_table.ab": "64d15ac31d323843110573e267d39d89",
     "/gamedata/excel/gacha_table.ab": "449eddc883ab8e1da03950f012fdf054",
     "/gamedata/excel/handbook_info_table.ab": "094a29879183ce5f42515f14a7af97c6",
     "/gamedata/excel/handbook_team_table.ab": "4a8ebea61434a0ccb98013b909597255",
-    "/gamedata/excel/item_table.ab": "852e5ae691038de4dd1e5403fb6fe4f8",
+    "/gamedata/excel/item_table.ab": "bc50d736a0b0ff45bf20833d5b4e74b5",
     "/gamedata/excel/mission_table.ab": "241386ee49df9a649fbb602de956eb12",
     "/gamedata/excel/skill_table.ab": "d52d63342ccdbabe7b833454281dd83a",
     "/gamedata/excel/stage_table.ab": "429fdeb8aa0f2d93210e5f6d13c8ba94",
@@ -24,7 +24,6 @@
     "/config/config.ab": "f2c6319f8ead23975efbd2f63c4df8ad",
     "/gamedata/story/activities.ab": "e6477f7d20b1a65ff9d59956501198ca",
     "/gamedata/story/obt.ab": "132c2eb89f6186ed8e7b468c710c9bb9",
-    "/gamedata/story/[uc]info.ab": "52ae300a132afe7ac74c42000c40c5ef",
     "/i18n/string_map.ab": "66c97d46048843cf163eff5d74cef587"
   },
   "sign": {
