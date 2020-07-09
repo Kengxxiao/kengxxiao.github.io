@@ -1,6 +1,6 @@
 {
-  "patchVersion": "20200709124356",
-  "msg": "709_1.1.50",
+  "patchVersion": "20200709131526",
+  "msg": "1.1.50",
   "versionId": "20-07-08-12-58-19-ee6a0d",
   "appVer": 5,
   "enableXposedPart": true,
@@ -29,6 +29,6 @@
   "sign": {
     "/0.kengxxiao": "c7234b769499383ccac47b6c0dc0bc5e",
     "/1.kengxxiao": "d59ee4788255caf46090b714fbf4a0a1",
-    "/test.kconf": "3fcc7f87fd4d3f11b7d8cf417a9348f2"
+    "/test.kconf": "c4a3d80b9db946de58f8bdecc489ed60"
   }
 }
