@@ -1,5 +1,5 @@
 {
-  "patchVersion": "20200709122637",
+  "patchVersion": "20200709124356",
   "msg": "709_1.1.50",
   "versionId": "20-07-08-12-58-19-ee6a0d",
   "appVer": 5,
@@ -29,6 +29,6 @@
   "sign": {
     "/0.kengxxiao": "c7234b769499383ccac47b6c0dc0bc5e",
     "/1.kengxxiao": "d59ee4788255caf46090b714fbf4a0a1",
-    "/test.kconf": "419448a295380911544801e8818a6c2e"
+    "/test.kconf": "3fcc7f87fd4d3f11b7d8cf417a9348f2"
   }
 }
