@@ -1,6 +1,6 @@
 {
-  "patchVersion": "20200709131526",
-  "msg": "1.1.50",
+  "patchVersion": "20200711011103",
+  "msg": "patcher3.0",
   "versionId": "20-07-08-12-58-19-ee6a0d",
   "appVer": 5,
   "enableXposedPart": true,
@@ -26,9 +26,5 @@
     "/gamedata/story/obt.ab": "31197ebc63b5b878bb6ebb442d24079e",
     "/i18n/string_map.ab": "66c97d46048843cf163eff5d74cef587"
   },
-  "sign": {
-    "/0.kengxxiao": "c7234b769499383ccac47b6c0dc0bc5e",
-    "/1.kengxxiao": "d59ee4788255caf46090b714fbf4a0a1",
-    "/test.kconf": "c4a3d80b9db946de58f8bdecc489ed60"
-  }
+  "sign": {}
 }
