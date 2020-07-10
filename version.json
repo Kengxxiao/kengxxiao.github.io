@@ -1,12 +1,12 @@
 {
-  "patchVersion": "20200711014755",
-  "msg": "patcher3.0_1",
+  "patchVersion": "20200711015601",
+  "msg": "riic update",
   "versionId": "20-07-08-12-58-19-ee6a0d",
   "appVer": 5,
   "enableXposedPart": true,
   "files_xposed": {
     "/gamedata/excel/activity_table.ab": "2b8393c3f4a373497715d9f3ffec3a51",
-    "/gamedata/excel/building_data.ab": "152c1e9794c7a223cf407a29540a282c",
+    "/gamedata/excel/building_data.ab": "889daff567ab25e5a81cb47cc8d36a91",
     "/gamedata/excel/character_table.ab": "2db86514d107e23ec247cd8dc4ab9a6e",
     "/gamedata/excel/charword_table.ab": "fd0b4aaf8ee3414e9853ac5e646d3adf",
     "/gamedata/excel/enemy_handbook_table.ab": "6c9e54785833797b5b4f856139f1b6df",
