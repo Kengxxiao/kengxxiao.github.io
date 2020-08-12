@@ -1,7 +1,7 @@
 {
-  "patchVersion": "20200811161837",
-  "msg": "火蓝之心",
-  "versionId": "20-08-10-07-52-45-69cad6",
+  "patchVersion": "20200812160412",
+  "msg": "812",
+  "versionId": "20-08-11-13-00-08-3c5f56",
   "appVer": 5,
   "enableXposedPart": true,
   "files_xposed": {
