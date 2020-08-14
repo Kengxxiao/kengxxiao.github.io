@@ -1,7 +1,7 @@
 {
-  "patchVersion": "20200812160412",
-  "msg": "812",
-  "versionId": "20-08-11-13-00-08-3c5f56",
+  "patchVersion": "20200814162311",
+  "msg": "814",
+  "versionId": "20-08-13-14-48-11-501377",
   "appVer": 5,
   "enableXposedPart": true,
   "files_xposed": {
