@@ -1,6 +1,6 @@
 {
-  "patchVersion": "20200816230447",
-  "msg": "updatetl",
+  "patchVersion": "20200816232901",
+  "msg": "ancientforge",
   "versionId": "20-08-13-14-48-11-501377",
   "appVer": 5,
   "enableXposedPart": true,
@@ -22,7 +22,7 @@
   },
   "files": {
     "/config/config.ab": "f2c6319f8ead23975efbd2f63c4df8ad",
-    "/gamedata/story/activities.ab": "9488d2f007363dd9d275686f28c1faad",
+    "/gamedata/story/activities.ab": "9e42f85978f6713351b1af7d05f68892",
     "/gamedata/story/obt.ab": "31197ebc63b5b878bb6ebb442d24079e",
     "/i18n/string_map.ab": "66c97d46048843cf163eff5d74cef587"
   },
