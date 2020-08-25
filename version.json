@@ -1,6 +1,6 @@
 {
-  "patchVersion": "20200825132634",
-  "msg": "1180",
+  "patchVersion": "20200825135044",
+  "msg": "1180_2",
   "versionId": "20-08-24-09-47-26-b1935e",
   "appVer": 5,
   "enableXposedPart": true,
@@ -21,7 +21,7 @@
     "/gamedata/excel/tip_table.ab": "b4ea8077b71fe89ab31b90d2594d36af"
   },
   "files": {
-    "/config/config.ab": "f2c6319f8ead23975efbd2f63c4df8ad",
+    "/config/config.ab": "a6ae4649dfd332cde208f2c9c32700d0",
     "/gamedata/story/activities.ab": "d7cc4d490f0521e176d6e0683a1d4c58",
     "/gamedata/story/obt.ab": "6e35736aef3f3e37aa4788e4ccecacfc",
     "/i18n/string_map.ab": "7656610b7c0ad5997146e890f6609ca7"
