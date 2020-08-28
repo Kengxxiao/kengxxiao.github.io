@@ -1,6 +1,6 @@
 {
-  "patchVersion": "20200826000925",
-  "msg": "relic_test",
+  "patchVersion": "20200829012402",
+  "msg": "relic_test_2",
   "versionId": "20-08-24-09-47-26-b1935e",
   "appVer": 5,
   "enableXposedPart": true,
@@ -15,7 +15,7 @@
     "/gamedata/excel/handbook_team_table.ab": "86defe6523515b290becf318fe5a8134",
     "/gamedata/excel/item_table.ab": "2bc2cb60c76664da80f99a51bc1eddf2",
     "/gamedata/excel/mission_table.ab": "a1d0ae1f7b5681b82079de76b822f340",
-    "/gamedata/excel/roguelike_table.ab": "3538cf8fc84e6a54fa51cf50e1e73e80",
+    "/gamedata/excel/roguelike_table.ab": "2f4de16f028f8426791adbb7bdb712a6",
     "/gamedata/excel/skill_table.ab": "75ffa726f62b8cc3110f6c043d8ff1c0",
     "/gamedata/excel/stage_table.ab": "f1cfb9774affb41ce1485334b4ac7b19",
     "/gamedata/excel/story_review_table.ab": "413d72c8074558992e215f0f81b59db4",
