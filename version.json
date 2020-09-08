@@ -1,7 +1,7 @@
 {
-  "patchVersion": "20200901164524",
-  "msg": "901",
-  "versionId": "20-08-28-13-42-05-f77251",
+  "patchVersion": "20200908161000",
+  "msg": "908",
+  "versionId": "20-09-03-14-34-55-feb577",
   "appVer": 5,
   "enableXposedPart": true,
   "files_xposed": {
@@ -10,7 +10,7 @@
     "/gamedata/excel/character_table.ab": "6e6975fc22b24a5c78f7c78b07eed257",
     "/gamedata/excel/charword_table.ab": "91167a9df4f805adcdf76f9420225936",
     "/gamedata/excel/enemy_handbook_table.ab": "1c78c189aec6d5690253f16365a64f80",
-    "/gamedata/excel/gacha_table.ab": "6911ebc5587f9e5c35e34f5ea96f00a1",
+    "/gamedata/excel/gacha_table.ab": "2a926ee6bb73724595e98f9cb5810658",
     "/gamedata/excel/handbook_info_table.ab": "502590315cd6d0161a3913858b98a18f",
     "/gamedata/excel/handbook_team_table.ab": "86defe6523515b290becf318fe5a8134",
     "/gamedata/excel/item_table.ab": "2bc2cb60c76664da80f99a51bc1eddf2",
