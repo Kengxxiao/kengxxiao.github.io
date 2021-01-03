@@ -1,7 +1,7 @@
 {
-  "patchVersion": "20201223160548",
-  "msg": "1223",
-  "versionId": "20-12-21-13-06-28-384437",
+  "patchVersion": "20210103165125",
+  "msg": "0103",
+  "versionId": "20-12-30-09-20-08-499e90",
   "appVer": 5,
   "enableXposedPart": true,
   "files_xposed": {
@@ -10,14 +10,14 @@
     "/gamedata/excel/character_table.ab": "f19930ba8558db6e3bdbea6a26599cb4",
     "/gamedata/excel/charword_table.ab": "6debbb5f0a1699b983a3515b84d52904",
     "/gamedata/excel/enemy_handbook_table.ab": "d57d685782f834e3c1b556f153601711",
-    "/gamedata/excel/gacha_table.ab": "c5792355b28380920feafad48517c60b",
+    "/gamedata/excel/gacha_table.ab": "ff0ffdcff8e9ece97f33a68d946fe2d3",
     "/gamedata/excel/handbook_info_table.ab": "ddf4500e3207e1661cd9ea57fa63af5d",
     "/gamedata/excel/handbook_team_table.ab": "535dad2f7c9860c34ad6da893828e124",
-    "/gamedata/excel/item_table.ab": "2fde6da573495bd4a94cc27b4aa0d555",
+    "/gamedata/excel/item_table.ab": "69022f7536e49cbf57441913091f7a47",
     "/gamedata/excel/mission_table.ab": "66c9288d6849c9180f431181892be953",
     "/gamedata/excel/roguelike_table.ab": "a8eaa31daba6a2c7f972c2d39665c4f9",
     "/gamedata/excel/skill_table.ab": "695948f56bbfcc89bd1c4817c3cb749b",
-    "/gamedata/excel/stage_table.ab": "3287aa690de1b248a6079b3b2f6f464b",
+    "/gamedata/excel/stage_table.ab": "34a8911fca46444ec2fd8573865a62f5",
     "/gamedata/excel/story_review_table.ab": "abf476c6d8d8c1dc64c5042380a26e53",
     "/gamedata/excel/tip_table.ab": "b4ea8077b71fe89ab31b90d2594d36af"
   },
