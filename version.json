@@ -1,7 +1,7 @@
 {
-  "patchVersion": "20210122212708",
-  "msg": "0119",
-  "versionId": "21-01-21-09-13-26-b14fa0",
+  "patchVersion": "20210125223824",
+  "msg": "0125",
+  "versionId": "21-01-23-11-52-28-9bbef6",
   "appVer": 5,
   "enableXposedPart": true,
   "files_xposed": {
